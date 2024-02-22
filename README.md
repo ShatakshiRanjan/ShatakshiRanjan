@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koolkusum&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=koolkusum&theme=panda)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiRanjan&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShatakshiRanjan&theme=panda)](https://git.io/streak-stats)
 
 <!--
 **ShatakshiRanjan/ShatakshiRanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
