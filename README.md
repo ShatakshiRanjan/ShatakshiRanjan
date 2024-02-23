@@ -15,9 +15,7 @@ Feel free to check out my projects!
 - [Blog](https://shatakshiranjan9.wixsite.com/shatakshiranjan)
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiRanjan&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
-
-![Your commit activity](https://github-readme-stats.vercel.app/api/wakatime?username=ShatakshiRanjan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiRanjan&layout=compact&theme=panda)]
 
 
 
