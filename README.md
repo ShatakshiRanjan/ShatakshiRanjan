@@ -14,8 +14,10 @@ Feel free to check out my projects!
 - [LinkedIn](https://www.linkedin.com/in/shatakshi-ranjan/)
 - [Blog](https://shatakshiranjan9.wixsite.com/shatakshiranjan)
 
-
+## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiRanjan&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShatakshiRanjan&show_icons=true&theme=radical)
+
 
 <!--
 **ShatakshiRanjan/ShatakshiRanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
