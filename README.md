@@ -16,7 +16,6 @@ Feel free to check out my projects!
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiRanjan&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShatakshiRanjan&show_icons=true&theme=radical)
 
 
 <!--
