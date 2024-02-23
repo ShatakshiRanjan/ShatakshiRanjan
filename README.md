@@ -12,8 +12,8 @@ Feel free to check out my projects!
 
 ## 📫 Learn more about me
 - [LinkedIn](https://www.linkedin.com/in/shatakshi-ranjan/)
-- [Blog](https://shatakshiranjan9.wixsite.com/shatakshiranjan)
 - [Devpost](https://devpost.com/ShatakshiRanjan?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- [Blog](https://shatakshiranjan9.wixsite.com/shatakshiranjan)
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiRanjan&layout=compact&theme=panda)]
