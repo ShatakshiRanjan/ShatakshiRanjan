@@ -17,6 +17,9 @@ Feel free to check out my projects!
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiRanjan&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
+![Your commit activity](https://github-readme-stats.vercel.app/api/wakatime?username=ShatakshiRanjan)
+
+
 
 <!--
 **ShatakshiRanjan/ShatakshiRanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
