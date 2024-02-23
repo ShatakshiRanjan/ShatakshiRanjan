@@ -10,9 +10,10 @@ I'm currently a junior at Rutgers University - New Brunswick, pursuing an underg
 
 Feel free to check out my projects!
 
-## 📫 Get in Touch
+## 📫 Learn more about me
 - [LinkedIn](https://www.linkedin.com/in/shatakshi-ranjan/)
 - [Blog](https://shatakshiranjan9.wixsite.com/shatakshiranjan)
+- [Devpost](https://devpost.com/ShatakshiRanjan?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiRanjan&layout=compact&theme=panda)]
