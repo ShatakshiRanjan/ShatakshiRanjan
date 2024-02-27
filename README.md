@@ -16,7 +16,7 @@ Feel free to check out my projects!
 - [Blog](https://shatakshiranjan9.wixsite.com/shatakshiranjan)
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiRanjan&layout=compact&theme=panda)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiRanjan&layout=compact&theme=panda)
 
 
 
