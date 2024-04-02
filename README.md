@@ -1,11 +1,11 @@
 ### Hi there 👋 Welcome to my GitHub profile!
 
 ## 🌟 About Me
-I am a junior at Rutgers University - New Brunswick, where I am pursuing an undergraduate degree in Computer Science and Information Technology and Informatics. I have a passion for coding and creating innovative projects. I'm currently working on expanding my knowledge of computer vision! 
+I am a junior at Rutgers University-New Brunswick, where I am pursuing an undergraduate degree in Computer Science and Information Technology and Informatics. I have a passion for coding and creating innovative projects. I'm currently working on expanding my knowledge of computer vision! 
 
 ## 🚀 Skills
 - 💻 Programming Languages: Java, Python (Flask), C, MATLAB, JavaScript, TypeScript, HTML, CSS
-- 🛠️ Tools/Platforms: GitHub, Sanity.io, GSAP, Canva, Audacity, VSCode, IntelliJ, Unity (C#)
+- 🛠️ Tools/Platforms: GitHub, Sanity.io (Next.js), GSAP, Canva, Audacity, VSCode, IntelliJ, Unity (C#)
 - 📚 Databases: MySQL, Prolog
 
 Feel free to check out my projects!
