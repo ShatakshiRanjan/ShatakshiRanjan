@@ -12,7 +12,7 @@ Feel free to check out my projects!
 
 ## 📫 Learn more about me
 - [LinkedIn](https://www.linkedin.com/in/shatakshi-ranjan/)
-- [Blog](https://shatakshiranjan9.wixsite.com/shatakshiranjan) (Under Construction)
+- [Blog](https://shatakshiranjan9.wixsite.com/shatakshiranjan) 
 
 Checkout my hackathon portfolio:
 - [Devpost](https://devpost.com/ShatakshiRanjan?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
