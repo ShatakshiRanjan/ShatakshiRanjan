@@ -18,7 +18,8 @@ Checkout my hackathon portfolio:
 - [Devpost](https://devpost.com/ShatakshiRanjan?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiRanjan&layout=compact&theme=panda)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiRanjan&&langs_count=8&layout=compact&theme=panda)
+
 
 
 <!--
