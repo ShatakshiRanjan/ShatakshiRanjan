@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my GitHub profile!
 
 ## 🌟 About Me
-I am a junior at Rutgers University-New Brunswick, where I am pursuing an undergraduate degree in Computer Science and Information Technology and Informatics. I have a passion for coding and creating innovative projects. I'm currently working on expanding my knowledge of computer vision! 
+I am a senior at Rutgers University-New Brunswick, where I am pursuing an undergraduate degree in Computer Science and Information Technology and Informatics. I have a passion for coding and creating innovative projects. 
 
 ## 🚀 Skills
 - 💻 Programming Languages: Java, Python (Flask), C, MATLAB, JavaScript, TypeScript, HTML, CSS
