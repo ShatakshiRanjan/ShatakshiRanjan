@@ -2,7 +2,7 @@
 👋 Hi there!  
 I’m a senior at Rutgers University majoring in Computer Science and Information Technology. I’m passionate about using technology to solve real-world problems and love working on innovative projects that make a meaningful impact.
 
-<img align="left" width="400" height="400" src="octocat-1730579786186.png">
+<img align="left" width="40%" height="40%" src="octocat-1730579786186.png">
 
 <br>💻 **What I’m Working On**  
 &nbsp;- Machine Learning & AI: Exploring applications of computer vision and ML in automation.  
