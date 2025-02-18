@@ -10,7 +10,7 @@ I’m a senior at Rutgers University majoring in Computer Science and Informatio
 &nbsp;- Database Management: Building efficient database solutions.  
 
 🏆 **Achievements**  
-Hackathon Wins: Best Sustainable Technology Hack at HackHERS 2024 and 2025 and Overall Winner at IEEE Hackathon 2024.  
+Hackathon Wins: Best Sustainable Technology Hack at HackHERS 2024 & 2025 and Overall Winner at IEEE Hackathon 2024.  
 Check out my hackathon projects on [Devpost](https://devpost.com/ShatakshiRanjan?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)!
 
 🌱 **What I’m Learning**  
