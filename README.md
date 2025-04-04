@@ -4,10 +4,10 @@ I’m a senior at Rutgers University majoring in Computer Science and Informatio
 
 <img align="left" width="40%" height="40%" src="octocat-1730579786186.png">
 
-<br>💻 **What I’m Working On**  
-&nbsp;- Machine Learning & AI: Exploring applications of computer vision and ML in automation.  
-&nbsp;- Front-End Development: Creating dynamic, responsive UIs with React, CSS3, and JavaScript.  
-&nbsp;- Database Management: Building efficient database solutions.  
+💻 **What I’m Working On**
+- **Machine Learning & AI**: Exploring applications of computer vision and ML in automation.
+- **Full Stack Development**: Building responsive, user-friendly web applications with a focus on seamless user experience and efficient functionality.
+- **Data & Analysis**: Managing and organizing data effectively while applying analytical techniques to extract insights and support smarter decision-making.
 
 🏆 **Achievements**  
 Hackathon Wins: Best Sustainable Technology Hack at HackHERS 2024 & 2025 and Overall Winner at IEEE Hackathon 2024.  
