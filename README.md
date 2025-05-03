@@ -11,7 +11,7 @@ I’m a senior at Rutgers University majoring in Computer Science and Informatio
 
 🏆 **Achievements**  
 Hackathon Wins: Best Sustainable Technology Hack at HackHERS 2024 & 2025 and Overall Winner at IEEE Hackathon 2024.  
-Check out my hackathon projects on [Devpost](https://devpost.com/ShatakshiRanjan?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)!
+Check out my hackathon projects on [Devpost](https://devpost.com/ShatakshiRanjan)
 
 🌱 **What I’m Learning**  
 Currently diving deeper into 3D front-end elements, cloud architecture, and machine learning frameworks. I’m excited to expand my knowledge and keep up with industry advancements!
@@ -19,7 +19,7 @@ Currently diving deeper into 3D front-end elements, cloud architecture, and mach
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shatakshi-ranjan) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ShatakshiRanjan)[![Devpost](https://img.shields.io/badge/Devpost-Profile-blue?logo=devpost)](https://devpost.com/ShatakshiRanjan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shatakshi-ranjan) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ShatakshiRanjan)
 
 ## 💻 Tech Stack
 ### 🧑‍💻 Programming & Development
