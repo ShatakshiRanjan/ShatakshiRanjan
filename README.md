@@ -2,7 +2,7 @@
 👋 Hi there!  
 I graduated with a Bachelor of Science in Computer Science and Information Technology from Rutgers University. I’m passionate about using technology to solve real-world problems and love working on innovative projects that make a meaningful impact.
 
-<img align="left" width="40%" height="40%" src="octocat-1730579786186.png">
+<img align="left" width="25%" height="auto" src="octocat-1730579786186.png">
 
 💻 **What I’m Working On**
 - **Machine Learning & AI**: Exploring applications of computer vision and ML in automation.
